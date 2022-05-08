@@ -1,4 +1,4 @@
-from utils.math import sum_bumbers
+from GIT.utils.mathematisc import sum_bumbers
 
 if __name__ == "__main__":
     print(sum_bumbers(5, 10))
